@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Arthur Brustolini😉
 -> Atualmente cursando Análise e Desenvolvimento de Software (Univiçosa) e curso de HTML5 e CSS3 (Curso em vídeo)
 
+-> Cada vez mais apaixonado por programação, e sempre buscando novas experiências!
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
